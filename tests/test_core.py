@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from io import open
-from mock import patch
+#from mock import patch
 import os
 from unittest import TestCase
 
